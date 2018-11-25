@@ -16,7 +16,7 @@ Then use the button in the ribbon to either get the number or the reference.
  - Tested of Office365
  
  
-# Limitation
+# Limitations
 - This macro will include reference in the main body. Textboxes and headers are excluded.
 - This will not change the reference in the ChemDraw structure. 
 
