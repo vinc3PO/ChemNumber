@@ -21,7 +21,7 @@ Then use the button in the ribbon to either get the number or the reference.
 - This will not change the reference in the ChemDraw structure. 
 
 
-# Exemple
+# Example
 testNumber.docm is part of the introduction of my thesis.
 
 
