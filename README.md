@@ -19,6 +19,7 @@ Then use the button in the ribbon to either get the number or the reference.
 # Limitations
 - This macro will replace only in the main body (table included). Textboxes and headers are excluded.
 - This will not change the reference in the ChemDraw structure. Possible using ChemDraw ActiveX control and a python script but extremely slow. 
+- Only available for windows users
 
 
 # Example
