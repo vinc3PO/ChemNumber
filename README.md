@@ -8,7 +8,7 @@ Microsoft Word equivalent of the ChemNum package in LaTex (minus ChemDraw modifi
 Create a new document using ChemNumbering.dotm template. 
 To add a new reference type \cmpd{ref} or use the insert reference button in the **ChemNumbering** ribbon.
 Then use the button in the ribbon to either get the number or the reference.
-More details in the WIKI.
+More details about installation and use in the WIKI.
 
 
 # Features
