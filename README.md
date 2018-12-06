@@ -1,6 +1,6 @@
 # ChemNumbering
 
-**ChemNumbering** is a Microsoft Word-template that allows user to automotize the molecule numbering within the main body of the document.   
+**ChemNumbering** is a Microsoft Word-template that allows user to automate the molecule numbering within the main body of the document.   
 Microsoft Word equivalent of the ChemNum package in LaTex (minus ChemDraw modification).
 
 
