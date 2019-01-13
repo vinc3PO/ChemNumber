@@ -21,7 +21,7 @@ More details about installation and use in the WIKI.
  
 # Limitations
 - This macro will replace only in the main body (table included). Textboxes and headers are excluded.
-- This will not change the reference in the ChemDraw structure. Possible if scheme saved as CDXML file and added as linked object (more details to come). 
+- This will can change the reference in the ChemDraw structure if scheme are saved as CDXML file and added as linked object (which lock the main document in a single location). 
 - Only available for Windows users
 
 
