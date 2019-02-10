@@ -1,16 +1,17 @@
 
-
-# ChemNumbering
+# CHEMNUMBERING
 
 
 **ChemNumbering** is a Microsoft Word-template that allows user to automate the molecule numbering within the main body of the document.   
-Microsoft Word equivalent of the ChemNum package in LaTex (minus ChemDraw modification).
+Microsoft Word equivalent of the ChemNum package in LaTex.  
+This version also allows the modification of the ChemDraw scheme (Follow tutorial for instructions).
 
 
 # How to use ChemNumbering
 Create a new document using ChemNumbering.dotm template.    
-To add a new reference type _\cmpd{ref}_ or use the insert reference button in the **ChemNumbering** ribbon.
-Then use the button in the ribbon to either get the number or the reference.      
+To add a new reference in the word document type _\cmpd{ref}_ or use the insert reference button in the **ChemNumbering** ribbon.
+Set-up the \{ref} markers in the ChemDraw scheme.  
+Then use the buttons in the ribbon to either get the number or the reference.      
 
 More details about installation and use in the WIKI.
 
@@ -24,12 +25,12 @@ More details about installation and use in the WIKI.
  
 # Limitations
 - This macro will replace only in the main body (table included). Textboxes and headers are excluded.
-- This will can change the reference in the ChemDraw structure if scheme are saved as CDXML file and added as linked object (which lock the main document in a single location). 
-- Only available for Windows users
+- If large document, it can take few minutes to complete the changes. 
+- ChemDraw option is still very experimental and raise some errors.
+- Only available for Windows users (I do not own any Apple devices, donation accepted!).
 
-
-# Example
-testNumber.docm is part of the introduction of my thesis. Please refrain from commenting the content.
+# Disclaimer
+I am a lazy chemist that do not like to do boring and repetitive tasks when it is possible to automated them. I am not developer, so the code might not be too power efficient.  
 
 ## Enjoy
 
