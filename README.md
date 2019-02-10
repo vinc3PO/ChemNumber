@@ -30,8 +30,8 @@ More details about installation and use in the WIKI.
 - Only available for Windows users (I do not own any Apple devices, donation accepted!).
 
 # Disclaimer
-I am a lazy chemist that do not like to do boring and repetitive tasks when it is possible to automated them. I am not developer, so the code might not be too power efficient.  
+I am a lazy chemist who does not like to do boring and repetitive tasks when it is possible to automated them. I am not a developer, so the code might not be too power efficient.  
 
-## Enjoy
+## Enjoy & Feel free to join and contribute
 
 
