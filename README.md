@@ -30,7 +30,7 @@ More details about installation and use in the tutorial.
 - Only available for Windows users (I do not own any Apple devices, donation accepted!).
 
 # Disclaimer
-I am a lazy chemist who does not like to do boring and repetitive tasks when it is possible to automated them. I am not a developer, so the code might not be too power efficient.  
+I am just a chemist who does not like to do boring and repetitive tasks when it is possible to automated them. I am not a developer, so the code might not be too power efficient, but a least it does the job.  
 
 ## Enjoy & Feel free to join and contribute
 
