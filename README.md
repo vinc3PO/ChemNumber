@@ -13,7 +13,7 @@ To add a new reference in the word document type _\cmpd{ref}_ or use the insert 
 Set-up the \{ref} markers in the ChemDraw scheme.  
 Then use the buttons in the ribbon to either get the number or the reference.      
 
-More details about installation and use in the WIKI.
+More details about installation and use in the tutorial.
 
 
 # Features
