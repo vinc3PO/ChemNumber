@@ -1,7 +1,6 @@
 
 # CHEMNUMBERING
 
-Test modification - Version2
 
 **ChemNumbering** is a Microsoft Word-template that allows user to automate the molecule numbering within the main body of the document.   
 Microsoft Word equivalent of the ChemNum package in LaTex.  
@@ -28,7 +27,7 @@ More details about installation and use in the tutorial.
 - This macro will replace only in the main body (table included). Textboxes and headers are excluded.
 - If large document, it can take few minutes to complete the changes. 
 - ChemDraw option is still very experimental and raise some errors.
-- Only available for Windows users (I do not own any Apple devices, donation accepted!).
+- Only available for Windows users (I do not own any Apple devices, donation accepted ;)).
 
 # Disclaimer
 I am just a chemist who does not like to do boring and repetitive tasks when it is possible to automated them. I am not a developer, so the code might not be too power efficient, but a least it does the job.  
